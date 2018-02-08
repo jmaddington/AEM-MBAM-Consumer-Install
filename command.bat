@@ -1,0 +1,1 @@
+mb3-setup.exe /silent /norestart /sp /supressmsgboxes /verysilent

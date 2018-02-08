@@ -1,0 +1,14 @@
+<component info='CentraStage Component'>
+  <general>
+    <name>MalwareBytes Consumer Install</name>
+    <category>applications</category>
+    <description>Installs MBAM consumer version</description>
+    <uid>a62b7e55-0948-4a86-8503-ffb6e7bc2eb6</uid>
+    <hash>5f760ba877e81047de9bcc0e13a844a5</hash>
+    <version>5</version>
+    <timeout>3600</timeout>
+    <securityLevel>5</securityLevel>
+    <installType>batch</installType>
+    <uninstallType />
+  </general>
+</component>
